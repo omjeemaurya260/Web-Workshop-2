@@ -1,0 +1,32 @@
+  body{
+    font-family: Arial, sans-serif;
+    background:rgb(93, 144, 191);
+    margin:0;
+    height:50vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.button{
+    margin-top:15px;
+    padding:10px 20px;
+    border:none;
+    background:#53a4eb;
+    color:white;
+    font-size:16px;
+    border-radius:6px;
+}
+
+.button:hover{
+    background:#0077ff;
+}
+
+ .container{
+background-color: rgb(219, 221, 225);
+text-align: center;
+padding: 30px;
+margin: 150px;
+display: block;
+align-items: center;
+border-radius: 10px;
+}
